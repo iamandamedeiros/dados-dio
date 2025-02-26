@@ -1,11 +1,12 @@
-# NTT DATA - Engenharia de Dados com Python 🐍
+# Dados
 
 <p align="center">
-<a href="https://dio.me/"><img src="https://hermes.dio.me/tracks/2a3a2d2b-7de7-457c-b4df-dcd327eae9eb.png" alt="Dio">
-</a>
+  <img
+    src="https://bdasolutions.com.br/wp-content/uploads/2019/11/descubra-como-transformar-a-analise-de-dados-em-ideias-criativas_miniatura.jpg" 
+  />
+</p>
 
-> Este é um repositório que foi desenvolvido durante o curso na plataforma da [DIO](https://dio.me).
-.
+> Este é um repositório que foi desenvolvido durante cursos na plataforma da [DIO](https://dio.me).
 
 ## 💻 Tecnologias utilizadas 
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
